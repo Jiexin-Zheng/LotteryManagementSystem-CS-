@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\widget.o
+./release\protocol.o
+./release\clientsocket.o
+./release\sqlmanager.o
+./release\sqldao.o
+./release\user.o
+./release\room.o
+./release\roommanager.o
+./release\moc_widget.o
+./release\moc_clientsocket.o
+);
